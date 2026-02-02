@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 ## ~ Hi there eu sou a Melissa Sequeira ~ 💾
 
 <div>
@@ -17,14 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehcamp&layout=compact&theme=transparent)
 
-##
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehcamp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehcamp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-##
-
 ## ~ Tecnologias ultilizadas ~ 💾
 
 <div>
@@ -39,12 +35,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Rafa-Python" height="35" width="40" src="https://img.icons8.com/?size=256&id=13406&format=png">
-</div>
-
-##
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mehcamp&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Mehcamp&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ##
