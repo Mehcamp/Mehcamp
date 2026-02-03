@@ -2,10 +2,10 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
+![Readme Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=500&lines=Development+Full+Stack;Development+Front+End;Development+Back+End)
 ## ~ Hi there eu sou a Melissa Sequeira ~ 💾
-
 <div>
-  <p>Sou Desenvolvedora Full Stack formada por paixão-Stack</p>
+  <p>Programadora com foco em desenvolvimento full-stack, atuando principalmente em back-end, APIs e banco de dados</p>
 </div>
 
 ## ~ Minhas redes ~ 💾
@@ -17,9 +17,11 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehcamp&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehcamp&layout=compact&theme=transparent)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mehcamp&theme=tokyonight" alt="General stats badge"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mehcamp&theme=radical" alt="Top languages by repo badge"/>
+</div>
 
 ## ~ Tecnologias ultilizadas ~ 💾
 
